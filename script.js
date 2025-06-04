@@ -32,14 +32,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "mas voce entra no carro, o piloto pergunta se voce quer dirigir, porem voce nao tem carteira de abilitação mas sabe dirigir e com isso tenque tomar a dicisao de dirigir e nao dirigir",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "voce dirigi sem carteira de abilitação",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "voce se preocupa com a segurança do carroe e de voces caso vc bata seria um prejuizo muito caro",
                 afirmacao: "afirmação"
             }
         ]
