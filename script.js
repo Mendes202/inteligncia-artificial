@@ -45,27 +45,27 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "porem voce decide nao entrar no caso e com isso ele dar uma gargalhada dizendo " clro que é brincadeira". E voce faz uma pergunta a ele",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "porque voce me chamou para dar uma volta?",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "voce pode dr uma arrancada ai o pa noi ver como é?",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "ele ignora totalmente suas perguntas e com isso voce toma conta que é um carro ROUBADO! ele começa a acelerar de uma forma desccontrolada e voce decide",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+                texto: "voce decide falar para ele parar de dirigir em alta velocidade.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                texto: "voce decide usar força bruta para faer ele parar de dirigire e acaba com tudo isso",
                 afirmacao: "afirmação"
             }
         ]
